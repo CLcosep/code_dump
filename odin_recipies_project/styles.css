@@ -1,0 +1,8 @@
+p {
+    outline: 2px solid red;
+}
+.par2{
+    color: green;
+    display: inline-block;
+    background-color: yellow;
+}

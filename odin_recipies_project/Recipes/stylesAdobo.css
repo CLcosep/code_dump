@@ -1,0 +1,40 @@
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    
+}
+
+
+.description{
+    text-align: center;
+    display:block;
+}
+
+.Title1, .Title2{
+    text-align: center;
+    font-weight: bolder;
+    
+}
+
+.reci, .ins {
+    display: inline-block;
+    text-align: left;
+    margin-top: auto;
+}
+.ingredients, .instructions{
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
