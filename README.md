@@ -6,3 +6,6 @@ I forgot a lot and I am trying to learn them all back again, should I make a doc
 
 log 2 09/2/23
 Tried to make a simple recipe page project from The Odin, nothing special just basic html and css syntax nothing to crazy
+
+log 3 09/3/23
+edited something and adding the odin landing page assignment
