@@ -3,6 +3,20 @@ p {
 }
 .par2{
     color: green;
-    display: inline-block;
     background-color: yellow;
+}
+
+.head, .recipe1{
+    text-align: center;
+
+}
+
+.par1, .par2, .par3 {
+    text-align: center;
+    height:17px;
+    width: 500px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
 }
