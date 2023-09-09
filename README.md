@@ -9,3 +9,7 @@ Tried to make a simple recipe page project from The Odin, nothing special just b
 
 log 3 09/3/23
 edited something and adding the odin landing page assignment
+
+log 4 09/09/23
+finished landing page 
+sadly I looked up some references which is a bad habit that I need to get rid of instead of looking at the solution I should've looked at pieces of the answers
